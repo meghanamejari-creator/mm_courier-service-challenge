@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MMCourierService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5aff612abf8eb1382866a655269fc9832a83262")]
 [assembly: System.Reflection.AssemblyProductAttribute("MMCourierService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MMCourierService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

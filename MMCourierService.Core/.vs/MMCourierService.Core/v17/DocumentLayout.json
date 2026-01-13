@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|d:\\meghana\\code\\mmcourierservice.core\\mmcourierservice.core\\costcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|solutionrelative:mmcourierservice.core\\costcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|d:\\meghana\\code\\mmcourierservice.core\\mmcourierservice.core\\icostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|solutionrelative:mmcourierservice.core\\icostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|d:\\meghana\\code\\mmcourierservice.core\\mmcourierservice.core\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|solutionrelative:mmcourierservice.core\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|d:\\meghana\\code\\mmcourierservice.core\\mmcourierservice.core\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A01EAD9-B433-4BA9-BC40-D4390595C7C7}|MMCourierService.Core\\MMCourierService.Core.csproj|solutionrelative:mmcourierservice.core\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CostCalculator.cs",
+              "DocumentMoniker": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\CostCalculator.cs",
+              "RelativeDocumentMoniker": "MMCourierService.Core\\CostCalculator.cs",
+              "ToolTip": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\CostCalculator.cs",
+              "RelativeToolTip": "MMCourierService.Core\\CostCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:58:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\OfferService.cs",
+              "RelativeDocumentMoniker": "MMCourierService.Core\\OfferService.cs",
+              "ToolTip": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\OfferService.cs",
+              "RelativeToolTip": "MMCourierService.Core\\OfferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:57:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOfferService.cs",
+              "DocumentMoniker": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\IOfferService.cs",
+              "RelativeDocumentMoniker": "MMCourierService.Core\\IOfferService.cs",
+              "ToolTip": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\IOfferService.cs",
+              "RelativeToolTip": "MMCourierService.Core\\IOfferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:50:50.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICostCalculator.cs",
+              "DocumentMoniker": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\ICostCalculator.cs",
+              "RelativeDocumentMoniker": "MMCourierService.Core\\ICostCalculator.cs",
+              "ToolTip": "D:\\MEGHANA\\CODE\\MMCourierService.Core\\MMCourierService.Core\\ICostCalculator.cs",
+              "RelativeToolTip": "MMCourierService.Core\\ICostCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:40:25.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

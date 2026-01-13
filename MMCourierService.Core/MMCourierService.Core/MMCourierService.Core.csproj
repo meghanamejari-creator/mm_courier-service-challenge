@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MMCourierService">
+      <HintPath>..\..\MMCourierService\bin\Debug\net6.0-windows7.0\MMCourierService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

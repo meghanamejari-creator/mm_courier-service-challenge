@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MMCourierService">
+      <HintPath>..\..\MMCourierService\bin\Debug\net6.0-windows7.0\MMCourierService.dll</HintPath>
+    </Reference>
+    <Reference Include="MMCourierService.Core">
+      <HintPath>..\..\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows7.0\MMCourierService.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

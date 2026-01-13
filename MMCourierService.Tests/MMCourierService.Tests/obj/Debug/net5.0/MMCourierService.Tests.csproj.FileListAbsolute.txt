@@ -1,0 +1,5 @@
+D:\MEGHANA\CODE\MMCourierService.Tests\MMCourierService.Tests\obj\Debug\net5.0\MMCourierService.Tests.csproj.AssemblyReference.cache
+D:\MEGHANA\CODE\MMCourierService.Tests\MMCourierService.Tests\obj\Debug\net5.0\MMCourierService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGHANA\CODE\MMCourierService.Tests\MMCourierService.Tests\obj\Debug\net5.0\MMCourierService.Tests.AssemblyInfoInputs.cache
+D:\MEGHANA\CODE\MMCourierService.Tests\MMCourierService.Tests\obj\Debug\net5.0\MMCourierService.Tests.AssemblyInfo.cs
+D:\MEGHANA\CODE\MMCourierService.Tests\MMCourierService.Tests\obj\Debug\net5.0\MMCourierService.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.AssemblyInfoInputs.cache
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.AssemblyInfo.cs
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.csproj.CoreCompileInputs.cache
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.csproj.AssemblyReference.cache
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows\MMCourierService.Core.deps.json
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows\MMCourierService.Core.dll
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows\MMCourierService.Core.pdb
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows\MMCourierService.dll
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\bin\Debug\net6.0-windows\MMCourierService.pdb
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourie.839F140E.Up2Date
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.dll
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\refint\MMCourierService.Core.dll
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\MMCourierService.Core.pdb
+D:\MEGHANA\CODE\MMCourierService.Core\MMCourierService.Core\obj\Debug\net6.0-windows\ref\MMCourierService.Core.dll
