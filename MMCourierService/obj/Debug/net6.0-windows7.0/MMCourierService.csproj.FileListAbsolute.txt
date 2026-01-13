@@ -1,0 +1,11 @@
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\bin\Debug\net6.0-windows7.0\MMCourierService.deps.json
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\bin\Debug\net6.0-windows7.0\MMCourierService.dll
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\bin\Debug\net6.0-windows7.0\MMCourierService.pdb
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.AssemblyInfoInputs.cache
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.AssemblyInfo.cs
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.csproj.CoreCompileInputs.cache
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.dll
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\refint\MMCourierService.dll
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\MMCourierService.pdb
+D:\MEGHANA\CODE\MMCourierService\MMCourierService\obj\Debug\net6.0-windows7.0\ref\MMCourierService.dll

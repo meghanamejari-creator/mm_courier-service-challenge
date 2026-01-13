@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MMCourierService/1.0.0": {
+        "runtime": {
+          "MMCourierService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MMCourierService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

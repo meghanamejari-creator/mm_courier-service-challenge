@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxwsQ0fKnOtw46zZ5Kw0+whquAijyv496xFADmMIzKfEzKaxsHhx+kXG+5X8Yn94tRsVO+9hMjKWw5m3nULBDQ==",
+  "success": true,
+  "projectFilePath": "D:\\MEGHANA\\CODE\\MMCourierService\\MMCourierService\\MMCourierService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbhiMegh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\AbhiMegh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\AbhiMegh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
